@@ -1,0 +1,12 @@
+Title: CISB5123
+Subtitle: Text Analytics
+Introduction: We are going to learn how to perform web scraping.
+Steps:
+- Inspect
+- Inspect the website that you want to scrape to understand the website structure
+- Crawl
+- Navigate the target website and download the response from the website
+- Parse and Transform
+- Parse the downloaded data into HTML parser and extract the required data
+- Store
+- Store the extracted data for further usage
