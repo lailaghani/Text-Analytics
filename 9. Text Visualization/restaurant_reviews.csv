@@ -1,0 +1,61 @@
+Review,Sentiment,Category,Topics
+"I love the cozy atmosphere of this place. The pizza was delicious, and the staff were friendly and attentive.",Positive,Dining Experience,"atmosphere, pizza, staff"
+The sushi at this place was terrible. It was bland and poorly cooked. I won't be coming back here anytime soon.,Negative,Food,sushi
+"I love the cozy atmosphere of this place. The pasta was delicious, and the staff were friendly and attentive.",Positive,Dining Experience,"atmosphere, pasta, staff"
+"The salad at this place was decent. Nothing exceptional, but nothing terrible either. I might come back if I'm in the area.",Neutral,Food,salad
+"This hotel was alright. The sushi was nothing special, but it wasn't bad either. I probably won't return, but it was fine for a one-time visit.",Neutral,Dining Experience,sushi
+"I can't say enough good things about this hotel. The pasta exceeded my expectations, and the service was impeccable.",Positive,Dining Experience,"pasta, service"
+The food at this restaurant was amazing! I had the steak and it was cooked to perfection. The service was also top-notch.,Positive,Dining Experience,"steak, service"
+"This hotel was alright. The burger was nothing special, but it wasn't bad either. I probably won't return, but it was fine for a one-time visit.",Neutral,Dining Experience,burger
+"I had an okay experience at this hotel. The sushi was average, and the service was adequate.",Neutral,Dining Experience,"sushi, service"
+"The pizza at this place was decent. Nothing exceptional, but nothing terrible either. I might come back if I'm in the area.",Neutral,Food,pizza
+"I can't say enough good things about this diner. The salad exceeded my expectations, and the service was impeccable.",Positive,Dining Experience,"salad, service"
+The food at this restaurant was amazing! I had the pizza and it was cooked to perfection. The service was also top-notch.,Positive,Dining Experience,"pizza, service"
+"This diner was alright. The salad was nothing special, but it wasn't bad either. I probably won't return, but it was fine for a one-time visit.",Neutral,Dining Experience,salad
+"The salad at this place was decent. Nothing exceptional, but nothing terrible either. I might come back if I'm in the area.",Neutral,Food,salad
+"We had a wonderful time at this hotel. The burger was fantastic, and the ambiance was perfect for a relaxing evening.",Positive,Dining Experience,"burger, atmosphere"
+"This cafe was alright. The pasta was nothing special, but it wasn't bad either. I probably won't return, but it was fine for a one-time visit.",Neutral,Dining Experience,pasta
+"I was really disappointed with my experience here. The sushi took forever to arrive, and when it finally did, it was cold. The staff seemed overwhelmed and inattentive.",Negative,Dining Experience,"sushi, staff"
+"I love the cozy atmosphere of this place. The pizza was delicious, and the staff were friendly and attentive.",Positive,Dining Experience,"atmosphere, pizza, staff"
+"I was really disappointed with my experience here. The salad took forever to arrive, and when it finally did, it was cold. The staff seemed overwhelmed and inattentive.",Negative,Dining Experience,"salad, staff"
+The service at this hotel was atrocious. The staff were rude and unprofessional. I would not recommend this place to anyone.,Negative,Service,staff
+The service at this cafe was atrocious. The staff were rude and unprofessional. I would not recommend this place to anyone.,Negative,Service,staff
+"I had an okay experience at this diner. The sushi was average, and the service was adequate.",Neutral,Dining Experience,"sushi, service"
+"The burger at this place was decent. Nothing exceptional, but nothing terrible either. I might come back if I'm in the area.",Neutral,Food,burger
+The pasta at this place was terrible. It was bland and poorly cooked. I won't be coming back here anytime soon.,Negative,Food,pasta
+"I had an okay experience at this restaurant. The steak was average, and the service was adequate.",Neutral,Dining Experience,"steak, service"
+"The burger at this place was decent. Nothing exceptional, but nothing terrible either. I might come back if I'm in the area.",Neutral,Food,burger
+The pizza at this place was terrible. It was bland and poorly cooked. I won't be coming back here anytime soon.,Negative,Food,pizza
+The service at this restaurant was atrocious. The staff were rude and unprofessional. I would not recommend this place to anyone.,Negative,Service,staff
+The service at this restaurant was atrocious. The staff were rude and unprofessional. I would not recommend this place to anyone.,Negative,Service,staff
+"This bar was alright. The sushi was nothing special, but it wasn't bad either. I probably won't return, but it was fine for a one-time visit.",Neutral,Dining Experience,sushi
+"I was really disappointed with my experience here. The pasta took forever to arrive, and when it finally did, it was cold. The staff seemed overwhelmed and inattentive.",Negative,Dining Experience,"pasta, staff"
+"I love the cozy atmosphere of this place. The pasta was delicious, and the staff were friendly and attentive.",Positive,Dining Experience,"atmosphere, pasta, staff"
+"I had an okay experience at this restaurant. The pizza was average, and the service was adequate.",Neutral,Dining Experience,"pizza, service"
+"I was really disappointed with my experience here. The steak took forever to arrive, and when it finally did, it was cold. The staff seemed overwhelmed and inattentive.",Negative,Dining Experience,"steak, staff"
+The service at this cafe was atrocious. The staff were rude and unprofessional. I would not recommend this place to anyone.,Negative,Service,staff
+"I had an okay experience at this hotel. The pizza was average, and the service was adequate.",Neutral,Dining Experience,"pizza, service"
+"The sushi at this place was decent. Nothing exceptional, but nothing terrible either. I might come back if I'm in the area.",Neutral,Food,sushi
+"This restaurant was alright. The salad was nothing special, but it wasn't bad either. I probably won't return, but it was fine for a one-time visit.",Neutral,Dining Experience,salad
+"I can't say enough good things about this hotel. The pizza exceeded my expectations, and the service was impeccable.",Positive,Dining Experience,"pizza, service"
+"I had high hopes for this hotel, but I was sorely disappointed. The sushi was mediocre at best, and the prices were outrageous.",Negative,Dining Experience,"sushi, price"
+"The steak at this place was decent. Nothing exceptional, but nothing terrible either. I might come back if I'm in the area.",Neutral,Food,steak
+"I had an okay experience at this hotel. The pasta was average, and the service was adequate.",Neutral,Dining Experience,"pasta, service"
+"The sushi at this place was decent. Nothing exceptional, but nothing terrible either. I might come back if I'm in the area.",Neutral,Food,sushi
+"This cafe was alright. The salad was nothing special, but it wasn't bad either. I probably won't return, but it was fine for a one-time visit.",Neutral,Dining Experience,salad
+"I can't say enough good things about this diner. The burger exceeded my expectations, and the service was impeccable.",Positive,Dining Experience,"burger, service"
+The food at this restaurant was amazing! I had the steak and it was cooked to perfection. The service was also top-notch.,Positive,Dining Experience,"steak, service"
+The sushi at this place was terrible. It was bland and poorly cooked. I won't be coming back here anytime soon.,Negative,Food,sushi
+"I had an okay experience at this hotel. The steak was average, and the service was adequate.",Neutral,Dining Experience,"steak, service"
+"The pizza at this place was decent. Nothing exceptional, but nothing terrible either. I might come back if I'm in the area.",Neutral,Food,pizza
+The salad at this place was terrible. It was bland and poorly cooked. I won't be coming back here anytime soon.,Negative,Food,salad
+"We had a wonderful time at this diner. The steak was fantastic, and the ambiance was perfect for a relaxing evening.",Positive,Dining Experience,"steak, atmosphere"
+"I had an okay experience at this bar. The pasta was average, and the service was adequate.",Neutral,Dining Experience,"pasta, service"
+"I love the cozy atmosphere of this place. The sushi was delicious, and the staff were friendly and attentive.",Positive,Dining Experience,"atmosphere, sushi, staff"
+"This restaurant was alright. The pasta was nothing special, but it wasn't bad either. I probably won't return, but it was fine for a one-time visit.",Neutral,Dining Experience,pasta
+"The steak at this place was decent. Nothing exceptional, but nothing terrible either. I might come back if I'm in the area.",Neutral,Food,steak
+"This diner was alright. The pizza was nothing special, but it wasn't bad either. I probably won't return, but it was fine for a one-time visit.",Neutral,Dining Experience,pizza
+"I had an okay experience at this restaurant. The pasta was average, and the service was adequate.",Neutral,Dining Experience,"pasta, service"
+"The pizza at this place was decent. Nothing exceptional, but nothing terrible either. I might come back if I'm in the area.",Neutral,Food,pizza
+The service at this hotel was atrocious. The staff were rude and unprofessional. I would not recommend this place to anyone.,Negative,Service,staff
+"I love the cozy atmosphere of this place. The burger was delicious, and the staff were friendly and attentive.",Positive,Dining Experience,"atmosphere, burger, staff"
